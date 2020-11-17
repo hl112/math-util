@@ -1,6 +1,5 @@
 # Welcome to Math Utility repository 
-### This repository contains a Java Project to simulate some 
-basic math method e.g. getFactorial(), sqrt() aka Math class in JDK
+### This repository contains a Java Project to simulate some basic math method e.g. getFactorial(), sqrt() aka Math class in JDK
 
 ### You will find in this repo:
 * Math Utility Java source code
