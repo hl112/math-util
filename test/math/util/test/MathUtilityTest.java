@@ -37,6 +37,7 @@ public class MathUtilityTest {
         assertEquals(24, MathUtility.getFactorial(4));
         assertEquals(1, MathUtility.getFactorial(0));
         assertEquals(1, MathUtility.getFactorial(1));
+        assertEquals(6, MathUtility.getFactorial(3));
         // tui muốn check coi có đúng là gọi hàm 5!  = 120 hay k 
         // có xanh không đỏ 
         
