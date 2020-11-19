@@ -26,7 +26,8 @@ public class MathUtil {
        // hi vong : 1, 
        
        //e: ném ngoại lệ IllegalArgumentException
-       System.out.println("-5!:" + MathUtility.getFactorial(-5));
+       System.out.println("-5!:" + MathUtility.getFactorial(2));
+        System.out.println(" CI For Today");
        
     }
     
